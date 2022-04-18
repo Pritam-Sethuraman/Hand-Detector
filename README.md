@@ -9,6 +9,27 @@
 
 ---
 
+## How to Use
+
+- Clone this repo
+```html
+$ git clone https://github.com/Pritam-Sethuraman/Hand-Detector.git
+```
+
+- Create Virtual Environment
+```html
+$ python -m venv handDetector
+$ cd handDetector
+$ Scripts\activate
+```
+
+- Open Jupyter Notebook
+```html
+$ jupyter notebook
+```
+
+---
+
 ## License
 MIT License
 
